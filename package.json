@@ -1,0 +1,27 @@
+{
+  "name": "catalog-import-sfcc",
+  "version": "1.0.0",
+  "description": "Catalog split import for sfcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhirajsriram/Catalog-import-sfcc.git"
+  },
+  "keywords": [
+    "Demandware",
+    "SFCC",
+    "node"
+  ],
+  "author": "dhirajsriram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhirajsriram/Catalog-import-sfcc/issues"
+  },
+  "homepage": "https://github.com/dhirajsriram/Catalog-import-sfcc#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
